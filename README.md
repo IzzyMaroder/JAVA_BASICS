@@ -8,9 +8,10 @@
 
 * Clone repository.
 
-        gh repo clone luigitatonetti/carPoolingApp
-* Install Maven on your machine
-* Compile your file 
+* Install Maven on your machine.
+
+* Compile your file.
+
 * create a package
 ```bash
 mvn package
